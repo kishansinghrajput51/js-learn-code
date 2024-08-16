@@ -1,1 +1,2 @@
-git is a software by Microsoft and are used to add the checkpoint in the repository to check the version of the code.
+git is a software by Microsoft git git  and are used to add the checkpoint in the repository to check the version of the code.it It is very useful
+tool for developers to collaborate with otehr team members .
